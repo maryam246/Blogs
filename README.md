@@ -59,10 +59,9 @@ Open the db.sqlite3 file from the project directory using SQLiteOnline for easy 
 
 ![category](https://github.com/maryam246/Blogs/assets/143519643/e61bf963-0dfc-4716-b8d3-1f4e2f22aabc)
 
-![post-add](https://github.com/maryam246/Blogs/assets/143519643/d52dcb25-df84-4089-81ee-03c2906bffbb)
+![p](https://github.com/maryam246/Blogs/assets/143519643/1f53cd17-69b3-48e4-846c-4c2e5893fc5e)
 
 ![Post](https://github.com/maryam246/Blogs/assets/143519643/29248200-934f-46bc-9da1-501f79fa936b)
 
 Here is a short video showcasing the functionality of the Blog Platform:
 
-Watch Blog Platform Demo
