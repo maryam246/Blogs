@@ -1,6 +1,8 @@
 # Blog Platform
 Blog Platform is a web application built with Django that allows users to register, create, edit, and delete blog categories and posts. The project includes customizations such as changing the theme of the admin site using django-admin-interface and supports viewing the database entries using SQLiteOnline for ease of access.
 
+![Home](https://github.com/maryam246/Blogs/assets/143519643/4293d2c0-7c0f-49f6-a47d-2a61f0d6b69a)
+
 
 ## Features
 - User Registration: Users can create an account to access the platform.
