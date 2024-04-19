@@ -52,6 +52,9 @@ If you wish to view and manage database entries:
 Install SQLiteOnline (https://sqliteonline.com/).
 Open the db.sqlite3 file from the project directory using SQLiteOnline for easy database access.
 ## Media
+- Screenshots
+  ![login](https://github.com/maryam246/Blogs/assets/143519643/5b11c654-0da4-45f2-b64a-ff29cbe18b19)
+
 Here is a short video showcasing the functionality of the Blog Platform:
 
 Watch Blog Platform Demo
