@@ -63,5 +63,5 @@ Open the db.sqlite3 file from the project directory using SQLiteOnline for easy 
 
 ![Post](https://github.com/maryam246/Blogs/assets/143519643/29248200-934f-46bc-9da1-501f79fa936b)
 
-Here is a short video showcasing the functionality of the Blog Platform:
+- Here is a short video showcasing the functionality of the Blog Platform:
 
