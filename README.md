@@ -4,26 +4,27 @@ Blog Platform is a web application built with Django that allows users to regist
 
 https://github.com/maryam246/Blogs/assets/143519643/82dd8347-da88-4e8e-b93d-2d94c4abc8df
 
-
-
 ## Features
 - User Registration: Users can create an account to access the platform.
 - Category Management: Users can create, edit, and delete blog categories.
 - Post Management: Users can create, edit, and delete blog posts within categories.
 - Custom Admin Theme: The admin site features a customized theme for better user experience.
 - SQLiteOnline: Database entries can be viewed and managed using SQLiteOnline for convenience.
-## Requirements
-To run this project, you'll need:
 
+## Requirements 
 - Python 3.x
-- Django (install using pip install django)
-- Pillow (install using pip install pillow)
-- django-admin-interface (install using pip install django-admin-interface)
-- SQLiteOnline (optional for viewing database entries)
-## Installation
-Navigate to the project directory:
+- Navigate to the project directory:
 
-cd blog-platform
+    **cd blog-platform**
+- - SQLiteOnline (optional for viewing database entries)
+    
+## Installation
+To run this project, you'll need to run this following commands in Terminal:
+
+- pip install django
+- pip install pillow
+- pip install django-admin-interface
+
 ## Setup
 1. Create a virtual environment (recommended):
 
@@ -54,7 +55,9 @@ If you wish to view and manage database entries:
 Install SQLiteOnline (https://sqliteonline.com/).
 Open the db.sqlite3 file from the project directory using SQLiteOnline for easy database access.
 ## Media
-- Screenshots
+- **Screenshots**
+
+  
   ![login](https://github.com/maryam246/Blogs/assets/143519643/5b11c654-0da4-45f2-b64a-ff29cbe18b19)
 
 ![ad-interface](https://github.com/maryam246/Blogs/assets/143519643/07164fd7-1543-4b71-b8c7-840022311878)
