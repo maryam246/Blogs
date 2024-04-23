@@ -18,47 +18,62 @@ https://github.com/maryam246/Blogs/assets/143519643/82dd8347-da88-4e8e-b93d-2d94
     **cd blog-platform**
 - - SQLiteOnline (optional for viewing database entries)
     
-## Installation
-To run this project, you'll need to run this following commands in Terminal:
-
-- pip install django
-- pip install pillow
-- pip install django-admin-interface
-
+## Install dependencies
+```bash
+pip install -r requirements.txt
+```
 ## Setup
 1. Create a virtual environment (recommended):
 
 python -m venv venv
+
 2. Activate the virtual environment:
 - On Windows:
  venv\Scripts\activate
 - On macOS/Linux:
   source venv/bin/activate
-3 Run migrations to set up the database:
-- python manage.py migrate
+  
+3. Run migrations to set up the database:
+ ``` bash
+python manage.py migrate
+```
 4. Create a superuser for admin access:
 
-- python manage.py createsuperuser
+``` bash
+python manage.py createsuperuser
+```
 5. Start the development server:
 
-- python manage.py runserver
-6. Access the application in your web browser at **http://127.0.0.1:8000/home/**.
+``` bash
+python manage.py runserver
+```
+6. Access the application in your web browser at
+``` bash
+http://127.0.0.1:8000/home/
+```
 ## Usage
 1. Register a new user account or login with an existing account.
 2. Create blog categories under the "Categories" section.
 3. Create, edit, or delete blog posts within categories under the "Posts" section.
 4. Manage your account and logout as needed.
-5. Access the admin site at http://127.0.0.1:8000/admin/ to manage categories, posts, and users with the custom theme provided by django-admin-interface.
+5. Access the admin site at:
+``` bash
+http://127.0.0.1:8000/admin/
+```
+to manage categories, posts, and users with the custom theme provided by django-admin-interface.
 ## Database Access
 If you wish to view and manage database entries:
 
-Install SQLiteOnline (https://sqliteonline.com/).
+**Install SQLiteOnline:**
+``` bash
+https://sqliteonline.com/
+```
 Open the db.sqlite3 file from the project directory using SQLiteOnline for easy database access.
 ## Media
 - **Screenshots**
 
   
-  ![login](https://github.com/maryam246/Blogs/assets/143519643/5b11c654-0da4-45f2-b64a-ff29cbe18b19)
+![login](https://github.com/maryam246/Blogs/assets/143519643/5b11c654-0da4-45f2-b64a-ff29cbe18b19)
 
 ![ad-interface](https://github.com/maryam246/Blogs/assets/143519643/07164fd7-1543-4b71-b8c7-840022311878)
 
