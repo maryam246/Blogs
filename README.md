@@ -30,9 +30,9 @@ python -m venv venv
  venv\Scripts\activate
 ```
 - On macOS/Linux:
-  ``` bash
-  source venv/bin/activate
-  ```
+``` bash
+source venv/bin/activate
+```
   
 3. Run migrations to set up the database:
  ``` bash
