@@ -13,25 +13,26 @@ https://github.com/maryam246/Blogs/assets/143519643/82dd8347-da88-4e8e-b93d-2d94
 
 ## Requirements 
 - Python 3.x
-- Navigate to the project directory:
-
-    **cd blog-platform**
-- - SQLiteOnline (optional for viewing database entries)
-    
+- django
+- sqllite browser
 ## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 ## Setup
 1. Create a virtual environment (recommended):
-
+``` bash
 python -m venv venv
-
+```
 2. Activate the virtual environment:
 - On Windows:
+``` bash
  venv\Scripts\activate
+```
 - On macOS/Linux:
+  ``` bash
   source venv/bin/activate
+  ```
   
 3. Run migrations to set up the database:
  ``` bash
