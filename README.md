@@ -82,6 +82,6 @@ Open the db.sqlite3 file from the project directory using SQLiteOnline for easy 
 
 ![p](https://github.com/maryam246/Blogs/assets/143519643/1f53cd17-69b3-48e4-846c-4c2e5893fc5e)
 
-![Post](https://github.com/maryam246/Blogs/assets/143519643/29248200-934f-46bc-9da1-501f79fa936b)
-
 ![Home](https://github.com/maryam246/Blogs/assets/143519643/4293d2c0-7c0f-49f6-a47d-2a61f0d6b69a)
+
+![Post](https://github.com/maryam246/Blogs/assets/143519643/29248200-934f-46bc-9da1-501f79fa936b)
